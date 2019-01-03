@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1024</string>
+    <string name="start">New Game</string>
+    <string name="game_over">Game Over</string>
+    <string name="win">You Win!</string>
+    <string name="lose">You Lose!</string>
+    <string name="retry">Replay</string>
+    <string name="cancel">Cancel</string>
+</resources>

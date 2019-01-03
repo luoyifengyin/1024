@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="oneDigit">40dp</dimen>
+    <dimen name="twoDigit">35dp</dimen>
+    <dimen name="threeDigit">28dp</dimen>
+    <dimen name="fourDigit">24dp</dimen>
+    <dimen name="fiveDigit">20dp</dimen>
+    <dimen name="radius">5dp</dimen>
+    <dimen name="tilePadding">4dp</dimen>
+</resources>

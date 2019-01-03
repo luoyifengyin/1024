@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zsc.edu.a2048.Tile xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    app:layout_rowWeight="1"
+    app:layout_columnWeight="1"
+    android:text="1"
+    android:background="@drawable/tile_bg"
+    style="@style/t1"
+    tools:layout_width="100dp"
+    tools:layout_height="100dp">
+
+</com.zsc.edu.a2048.Tile>

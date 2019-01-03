@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dark">#776e65</color>
+    <color name="light">#f9f6f2</color>
+    <color name="empty">#88cdc0b4</color>
+    <color name="a1">#cccccc</color>
+    <color name="a2">#91d091</color>
+    <color name="a4">#77ff77</color>
+    <color name="a8">#77ddbb</color>
+    <color name="a16">#aaaaff</color>
+    <color name="a32">#ff88ff</color>
+    <color name="a64">#ffcc88</color>
+    <color name="a128">#ffbb55</color>
+    <color name="a256">#ff7777</color>
+    <color name="a512">#ff3333</color>
+    <color name="a1024">#aa0000</color>
+    <color name="a2048">#000</color>
+    <color name="playground_bgcolor">#80ffffff</color>
+    <color name="text_color">#111</color>
+    <color name="score_bgcolor">#8fe0</color>
+    <color name="button_color">#37e</color>
+</resources>

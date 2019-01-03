@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:maxLevel="1" android:drawable="@drawable/t1"></item>
+
+    <item android:maxLevel="2" android:drawable="@drawable/t2"></item>
+
+    <item android:maxLevel="4" android:drawable="@drawable/t4"></item>
+
+    <item android:maxLevel="8" android:drawable="@drawable/t8"></item>
+
+    <item android:maxLevel="16" android:drawable="@drawable/t16"></item>
+
+    <item android:maxLevel="32" android:drawable="@drawable/t32"></item>
+
+    <item android:maxLevel="64" android:drawable="@drawable/t64"></item>
+
+    <item android:maxLevel="128" android:drawable="@drawable/t128"></item>
+
+    <item android:maxLevel="256" android:drawable="@drawable/t256"></item>
+
+    <item android:maxLevel="512" android:drawable="@drawable/t512"></item>
+
+    <item android:maxLevel="1024" android:drawable="@drawable/t1024"></item>
+
+    <item android:maxLevel="32768" android:drawable="@drawable/t2048"></item>
+
+</level-list>

@@ -1,0 +1,76 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="digit_1">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/oneDigit</item>
+        <item name="android:textColor">@color/dark</item>
+    </style>
+
+    <style name="digit_2">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/twoDigit</item>
+        <item name="android:textColor">@color/light</item>
+    </style>
+
+    <style name="digit_3">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/threeDigit</item>
+        <item name="android:textColor">@color/light</item>
+    </style>
+
+    <style name="digit_4">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/fourDigit</item>
+        <item name="android:textColor">@color/light</item>
+    </style>
+    
+    <style name="digit_5">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/fiveDigit</item>
+        <item name="android:textColor">@color/light</item>
+    </style>
+
+    <style name="t1" parent="digit_1"></style>
+
+    <style name="t2" parent="digit_1"></style>
+
+    <style name="t4" parent="digit_1"></style>
+
+    <style name="t8" parent="digit_1">
+        <item name="android:textColor">@color/light</item>
+    </style>
+
+    <style name="t16" parent="digit_2"></style>
+
+    <style name="t32" parent="digit_2"></style>
+
+    <style name="t64" parent="digit_2"></style>
+
+    <style name="t128" parent="digit_3"></style>
+
+    <style name="t256" parent="digit_3"></style>
+
+    <style name="t512" parent="digit_3"></style>
+
+    <style name="t1024" parent="digit_4"></style>
+    
+    <style name="t2048" parent="digit_4"></style>
+    
+    <style name="t4096" parent="digit_4"></style>
+    
+    <style name="t8192" parent="digit_4"></style>
+    
+    <style name="t16384" parent="digit_5"></style>
+    
+    <style name="t32768" parent="digit_5"></style>
+
+</resources>
